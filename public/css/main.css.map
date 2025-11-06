@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/vazqu/Documents/GitHub/sanityweekendinfo-sudo.github.io/civsanity",
+	"sourceRoot": "C:/Users/vazqu/Documents/GitHub/sanityweekendinfo-sudo.github.io",
 	"sources": [
 		"themes/hugo-theme-introduction/assets/sass/style.sass",
 		"themes/hugo-theme-introduction/assets/sass/_fonts.sass",

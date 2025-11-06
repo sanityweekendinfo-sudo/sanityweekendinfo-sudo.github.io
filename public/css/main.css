@@ -13049,7 +13049,7 @@ html.modal-open {
 
 /* The following lines control header and text styles for the main page */    
 a { 
-  color:  #000000; }
+  color:  #1E90FF; }
   a:hover {
     color: #000000;
     font-style: none; }
@@ -13058,6 +13058,12 @@ a {
 
 h1, h2, .title, .subtitle {
   color: #222222; }
+
+h3 a, h4 a, h5 a, h6 a {
+  color: inherit;
+  text-decoration: none;
+  pointer-events: none; /* optional: makes them not clickable */
+}
 
 p {
   color: #4b4a4a; }

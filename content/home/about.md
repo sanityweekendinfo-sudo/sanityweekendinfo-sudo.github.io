@@ -20,7 +20,7 @@ We use the term civilisational sanity here to refer to human-friendly societal 
 
 - Peacefulness – Does generally not harm outsiders
 
-Using these heuristics, we can analyse dynamics that support sanity. Some possible examples are a search for fair compromises and Pareto improvements, accountability mechanisms, establishing feedback loops, transmission of tacit knowledge, and increasing members’ option space. We can also examine corrosive dynamics that lead to intellectual or physical isolation, deteriorating epistemics and well-being. That can include groupthink, evaporative cooling, gatekeeping resources, cult of personality, controlling information flow, diffusion of responsibility, frame control and status games.
+Using these heuristics, we can analyse dynamics that support sanity. Some possible examples are a search for fair compromises and Pareto improvements, accountability mechanisms, establishing feedback loops, transmission of tacit knowledge, and increasing members’ option space. We can also examine corrosive dynamics that lead to intellectual or physical isolation, deteriorating epistemics and well-being. That can include groupthink, [evaporative cooling](https://www.lesswrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs), gatekeeping resources, cult of personality, controlling information flow, diffusion of responsibility, [frame control](https://www.lesswrong.com/posts/bQ6zpf6buWgP939ov/frame-control) and status games.
 
 The three central themes that we’ll be exploring during the event are:
 
@@ -36,13 +36,13 @@ This event focuses on pragmatic approaches. We will look at case studies that di
 
 ### Who are we? 
 
-This is an independently run event, partially funded by Epistea. Team members work on this event in their personal capacity.
+This is an independently run event, partially funded by [Epistea](https://epistea.org/). Team members work on this event in their personal capacity.
 
-**Yulia Ponomarenko** is the main organiser of the event. A programmer by day and an anthropologist by night, she has previously worked as an instructor for youth camps on rationality and epistemics. She did research on community dynamics in the Bay and has since extended her work, among other things as an Epistea resident in 2023.
+**Yulia Ponomarenko** is the main organiser of the event. A programmer by day and an anthropologist by night, she has previously worked as an instructor for youth camps on rationality and epistemics. She did [research](https://www.lesswrong.com/posts/yXLEcd9eixWucKGHg/the-seeker-s-game-vignettes-from-the-bay) on community dynamics in the Bay and has since extended her work, among other things as an [Epistea resident](https://www.lesswrong.com/posts/qHxW26uouWxk6SK4e/update-deadline-extended-to-july-24-new-wind-in-rationality) in 2023.
 
 **Jonte Hünerbein** designed a social deduction game about group rationality failures. He is deeply interested in the ideological failures of the totalitarian mass movements of the 20th century and the manipulation tactics of religious and political cults. He investigates fringe ideological online groups for fun. 
 
-**Ashe Vazquez** has a background in math and plays Go competitively at the top European level. Their other work includes thinking about the culture and philosophy of mathematicians and Go players. They are interested in abstractly modelling real things, card games, and learning about deception.
+**Ashe Vazquez** has a background in math and plays Go competitively at the top European level. Their [other work](https://tuesdaybornwhale.github.io/posts/) includes thinking about the culture and philosophy of mathematicians and Go players. They are interested in abstractly modelling real things, card games, and learning about deception.
 
 ### Who are you?
 
@@ -76,7 +76,7 @@ We will provide vegan meals for the duration of the event and cover accommodat
 
 #### How to apply?
 
-Fill out the application form by November 15th, 2025. We may reach out to some applicants for a follow-up interview. Applications will be evaluated on a rolling basis.
+Fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSc-up74WXFTDATzNXbvT80VyjQAHxRFwPrIIzhq4xgtZV_3FQ/viewform?usp=dialog) by November 15th, 2025. We may reach out to some applicants for a follow-up interview. Applications will be evaluated on a rolling basis.
 
 #### More questions? 
 
