@@ -14,6 +14,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     dateFormat                   = "Jan 2, 2006"
     email                        = "youremail@email.com"   # E-mail address for contact section
     customCSS                    = "custom.css"           # Include custom css files placed under assets/
+    footerText                   = "HI"
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
     # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
 
