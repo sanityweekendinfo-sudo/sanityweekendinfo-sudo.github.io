@@ -207,7 +207,7 @@ th {
   padding: 0; }
   td:not([align]),
   th:not([align]) {
-    text-align: inherit; }
+    text-align: left; }
 
 html {
   background-color: white;
@@ -259,7 +259,7 @@ a {
 
 code {
   background-color: transparent;
-  color: #00b8d4;
+  color: #d40004;
   font-size: 0.875em;
   font-weight: normal;
   padding: 0.25em 0.5em 0.25em; }
@@ -313,7 +313,7 @@ table th {
   vertical-align: top; }
   table td:not([align]),
   table th:not([align]) {
-    text-align: inherit; }
+    text-align: left; }
 
 table th {
   color: #363636; }
@@ -997,7 +997,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     font-size: 0.75rem !important; } }
 
 .has-text-centered {
-  text-align: center !important; }
+  text-align: left !important; }  /* modified from center... fuck you */
 
 .has-text-justified {
   text-align: justify !important; }
@@ -4312,7 +4312,7 @@ a.navbar-item,
   vertical-align: -0.1875em; }
 
 .fa-fw {
-  text-align: center;
+  text-align: left;
   width: 1.25em; }
 
 .fa-ul {
@@ -4325,7 +4325,7 @@ a.navbar-item,
 .fa-li {
   left: calc(var(--fa-li-width, 2em) * -1);
   position: absolute;
-  text-align: center;
+  text-align: left;
   width: var(--fa-li-width, 2em);
   line-height: inherit; }
 
@@ -4525,7 +4525,7 @@ a.navbar-item,
 .fa-stack-2x {
   left: 0;
   position: absolute;
-  text-align: center;
+  text-align: left;
   width: 100%;
   z-index: var(--fa-stack-z-index, auto); }
 
@@ -12439,7 +12439,7 @@ readers do not read off random characters that represent icons */
   font-size: 10em; }
 
 .ai-fw {
-  text-align: center;
+  text-align: left;
   width: 1.25em; }
 
 .ai-ul {
@@ -12452,7 +12452,7 @@ readers do not read off random characters that represent icons */
 .ai-li {
   left: -2em;
   position: absolute;
-  text-align: center;
+  text-align: left;
   width: 2em;
   line-height: inherit; }
 
@@ -12481,7 +12481,7 @@ readers do not read off random characters that represent icons */
 .ai-stack-1x, .ai-stack-2x {
   left: 0;
   position: absolute;
-  text-align: center;
+  text-align: left;
   width: 100%; }
 
 .ai-stack-1x {
@@ -12965,7 +12965,7 @@ readers do not read off random characters that represent icons */
   font-size: 10em; }
 
 .ai-fw {
-  text-align: center;
+  text-align: left;
   width: 1.25em; }
 
 .ai-ul {
@@ -12978,7 +12978,7 @@ readers do not read off random characters that represent icons */
 .ai-li {
   left: -2em;
   position: absolute;
-  text-align: center;
+  text-align: left;
   width: 2em;
   line-height: inherit; }
 
@@ -13007,7 +13007,7 @@ readers do not read off random characters that represent icons */
 .ai-stack-1x, .ai-stack-2x {
   left: 0;
   position: absolute;
-  text-align: center;
+  text-align: left;
   width: 100%; }
 
 .ai-stack-1x {
@@ -13046,8 +13046,10 @@ html.modal-open {
   .fade-in.three {
     animation-delay: 1.8s; }
 
-a {
-  color: #00b8d4; }
+
+/* The following lines control header and text styles for the main page */    
+a { 
+  color:  #000000; }
   a:hover {
     color: #000000;
     font-style: none; }
@@ -13058,7 +13060,7 @@ h1, h2, .title, .subtitle {
   color: #222222; }
 
 p {
-  color: #4a4a4a; }
+  color: #4b4a4a; }
 
 .title {
   font-weight: 300; }
@@ -13124,7 +13126,7 @@ details[open] summary {
   @media screen and (max-width: 768px) {
     .bold-title {
       font-size: 3rem;
-      text-align: center; } }
+      text-align: left; } }
 .top-pad {
   padding-top: 1rem; }
 
@@ -13201,7 +13203,7 @@ details[open] summary {
 .tags-list {
   width: 70%;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   font-size: 1.5rem; }
   @media screen and (max-width: 768px) {
     .tags-list {
@@ -13306,7 +13308,7 @@ details[open] summary {
   .markdown td, .markdown th {
     padding: .25rem .5rem;
     border: 1px solid #e5e5e5;
-    text-align: center;
+    text-align: left;
     background-color: #f7f7f7; }
   .markdown tbody tr:nth-child(odd) td,
   .markdown tbody tr:nth-child(odd) th {
@@ -13327,7 +13329,7 @@ details[open] summary {
   .markdown figcaption {
     margin: 0.5rem auto;
     max-width: 500px;
-    text-align: center; }
+    text-align: left; }
   .markdown figcaption > h4 {
     font-size: 0.8rem; }
 
