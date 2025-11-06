@@ -1,0 +1,4 @@
+baseURL = 'sanityweekendinfo-sudo.github.io/'
+languageCode = 'en-us'
+title = 'Weekend event Exploring Civilisational Sanity'
+theme = "hugo-theme-introduction" 
