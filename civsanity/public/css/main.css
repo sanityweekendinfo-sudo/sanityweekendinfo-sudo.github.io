@@ -259,7 +259,7 @@ a {
 
 code {
   background-color: transparent;
-  color: #00b8d4;
+  color: #d40004;
   font-size: 0.875em;
   font-weight: normal;
   padding: 0.25em 0.5em 0.25em; }
@@ -13046,8 +13046,10 @@ html.modal-open {
   .fade-in.three {
     animation-delay: 1.8s; }
 
-a {
-  color: #00b8d4; }
+
+/* The following lines control header and text styles for the main page */    
+a { 
+  color:  #000000; }
   a:hover {
     color: #000000;
     font-style: none; }
@@ -13058,7 +13060,7 @@ h1, h2, .title, .subtitle {
   color: #222222; }
 
 p {
-  color: #4a4a4a; }
+  color: #4b4a4a; }
 
 .title {
   font-weight: 300; }
